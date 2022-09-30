@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '❄️'
-global.REACT_NUMBER = '6281908260632'
+global.REACT_NUMBER = '6281585328096'
 
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
@@ -34,16 +34,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281908260632'] //ur owner number
-global.ownername = "❄️ OWNERS ❄️" //ur owner name
-global.ytname = "YT: FlySarik" //ur yt chanel name
-global.socialm = "GitHub: Flyzunx" //ur github or insta name
+global.vcardowner = ['6285716583868'] //ur owner number
+global.ownername = "Cipengx" //ur owner name
+global.ytname = "YT:MemeFUN" //ur yt chanel name
+global.socialm = "GitHub: cipengx" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Cempaka" //ur location
 
 //bot bomdy 
-global.owner = ['6281908260632']
-global.ownertag = '6281908260632' //ur tag number
-global.botname = '✫ ✫ ✫FlySarik-MD✫ ✫ ✫' //ur bot name
+global.owner = ['6285716583868']
+global.ownertag = '6281585328096' //ur tag number
+global.botname = 'PengxBotz' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281908260632'] //ur premium numbers
+global.premium = ['6285716583868'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
